@@ -1,0 +1,17 @@
+body {
+  background: #aa4a4a;
+  text-align: center;
+  background-image: url("https://www.pixelstalk.net/wp-content/uploads/images6/Pink-Cute-Phone-Backgrounds-Minimalist.jpg");
+  background-attachment: scroll;
+  background-attachment: fixed;
+}
+.text {
+  color: rgb(58, 198, 88);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-shadow: 3px 3px 4px #000000;
+}
+.texto {
+  color: rgb(255, 255, 255);
+  font-size: medium;
+  text-shadow: #000000 3px 3px 5px;
+}

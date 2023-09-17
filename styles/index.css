@@ -1,5 +1,5 @@
 body {
-  background: #aa4a4a;
+  background: #ffcfdb;
   text-align: center;
   background-image: url("https://www.pixelstalk.net/wp-content/uploads/images6/Pink-Cute-Phone-Backgrounds-Minimalist.jpg");
   background-attachment: scroll;
@@ -22,6 +22,7 @@ body {
   display: inline-block;
 }
 .img {
+  text-align: center;
   box-shadow: 5px 5px 5px #000000;
 }
 .pie {

@@ -17,7 +17,7 @@ body {
 }
 
 .lista {
-  color: #000000;
+  color: #aeff99;
   text-align: left;
   display: inline-block;
 }
@@ -26,7 +26,7 @@ body {
   box-shadow: 5px 5px 5px #000000;
 }
 .pie {
-  color: rgb(174, 255, 153);
+  color: #aeff99;
 
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }

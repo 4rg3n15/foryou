@@ -24,3 +24,8 @@ body {
 .img {
   box-shadow: 5px 5px 5px #000000;
 }
+.pie {
+  color: rgb(174, 255, 153);
+
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
